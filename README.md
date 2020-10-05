@@ -1,9 +1,9 @@
-# Yes cart 
+# Yes cart - Example ReactJS shop
 
 ## Yes cart react demo shop 
 
-Under heavi development right now
-Example implementation of web shop using ReactJS that uses REST API
+This project is in its inception part and is under heavy development at the moment.
+The goal is to provide an example implementation of web shop using ReactJS that uses REST API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
